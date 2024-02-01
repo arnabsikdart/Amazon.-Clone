@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 113px;
+    
+}
+
+.logo {
+    background-image: url("ref=nav_logo.htm");
+    height: 50px;
+    width: 113%;
+    background-size: cover;
+}
